@@ -8,6 +8,7 @@ public class SingleResponsibility1 {
 		vehicle.run("摩托车");
 		vehicle.run("汽车");
 		vehicle.run("飞机");
+
 	}
 
 }
